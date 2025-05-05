@@ -12,31 +12,22 @@
 ##  About Me
 
 - 🔭 I’m currently working on **modern web apps and creative tools**  
-- 🌱 I’m learning **AI, TypeScript, and System Design**  
+- 💻  I’m learning **AI, TypeScript, and System Design**  
 - 💬 Ask me about `React`, `Node.js`, `UX/UI` or `Open Source`  
 - 🧠 Fun fact: I love clean code, good coffee, and chill music  
 - 📫 How to reach me: **[nguyenleduydhtv@gmail.com](mailto:nguyenleduydhtv@gmail.com)**  
 - ⚡ Motto: _“Code is art. Design is empathy.”_
 
 ---
-
-## 🔧 Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-
-### 🛠 Backend & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000?logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+<h3 align="center">Software and Technology</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github.com/diengbtvu/diengbtvu/blob/main/tech.svg" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="38" height="38"/>
+</p>
 
 ---
 
