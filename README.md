@@ -1,7 +1,11 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi there 👋, I'm <span style="color:#00C9A7">Nguyen Le Duy</span>!</h1>
 <h3 align="center">A passionate Full Stack Developer from 🌏 Vietnam</h3>
-
+<p align="center">
+    <img src="https://github.com/diengbtvu/diengbtvu/blob/main/avtt_circle_with_border.png" 
+         style="width: 50%; border-radius: 50%;" 
+         alt="Avatar" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=I+%F0%9F%92%BB+code+cool+stuff;I+%E2%9C%A8+design+for+humans;Always+learning+new+things+%F0%9F%8C%8E" />
 </p>
@@ -14,7 +18,7 @@
 - 🌱 I’m learning **AI, TypeScript, and System Design**  
 - 💬 Ask me about `React`, `Node.js`, `UX/UI` or `Open Source`  
 - 🧠 Fun fact: I love clean code, good coffee, and chill music  
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**  
+- 📫 How to reach me: **[your.email@exampl.com](mailto:nguyenleduydhtv@gmail.com)**  
 - ⚡ Motto: _“Code is art. Design is empathy.”_
 
 ---
