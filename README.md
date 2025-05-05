@@ -2,8 +2,8 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#00C9A7">Nguyen Le Duy</span>!</h1>
 <h3 align="center">A passionate Full Stack Developer from 🌏 Vietnam</h3>
 <p align="center">
-    <img src="https://github.com/diengbtvu/diengbtvu/blob/main/avtt_circle_with_border.png" 
-         style="width: 50%; border-radius: 50%;" 
+    <img src="https://github.com/nguyenleduy03/nguyenleduy03/blob/main/avata.jpg" 
+         style="width: 30%; border-radius: 30%;" 
          alt="Avatar" />
 </p>
 <p align="center">
