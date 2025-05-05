@@ -6,9 +6,6 @@
          style="width: 50%; border-radius: 100%;" 
          alt="Avatar" />
 </p>
-<p align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="38" height="38"/>
-</p>
 
 ---
 
@@ -27,6 +24,9 @@
   <a href="https://skillicons.dev">
     <img src="https://github.com/diengbtvu/diengbtvu/blob/main/tech.svg" />
   </a>
+</p>
+<p align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="38" height="38"/>
 </p>
 
 ---
