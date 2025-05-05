@@ -6,7 +6,9 @@
          style="width: 50%; border-radius: 100%;" 
          alt="Avatar" />
 </p>
+
 ---
+
 ##  About Me
 - 🔭 I’m currently working on **modern web apps and creative tools**  
 - 💻  I’m learning **AI, TypeScript, and System Design**  
@@ -14,7 +16,9 @@
 - 🧠 Fun fact: I love clean code, good coffee, and chill music  
 - 📫 How to reach me: **[nguyenleduydhtv@gmail.com](mailto:nguyenleduydhtv@gmail.com)**  
 - ⚡ Motto: _“Code is art. Design is empathy.”_
+  
 ---
+
 <h3 align="center">Software and Technology</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,7 +28,9 @@
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="38" height="38"/>
 </p>
+
 ---
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%" />
@@ -33,7 +39,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="40%" />
 </p>
+
 ---
+
 ## 🌍 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
@@ -41,7 +49,9 @@
   <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white"></a>
   <a href="https://yourwebsite.com"><img alt="Website" src="https://img.shields.io/badge/-Portfolio-FF5722?logo=firefox&logoColor=white"></a>
 </p>
+
 ---
+
 ## 🎨 Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
