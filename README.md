@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Xin chào! Tôi là Nguyễn Lê Duy
 
-<!--
-**nguyenleduy03/nguyenleduy03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hiện tại tôi đang làm việc với **ReactJS & NodeJS**
+- 🌱 Đang học thêm về DevOps & Cloud
+- 💬 Hỏi tôi về `JavaScript`, `Git`, hoặc `Docker`
+- 📫 Liên hệ: nguyenvana@example.com
 
-Here are some ideas to get you started:
+## 🛠️ Công nghệ sử dụng
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenvanabc&show_icons=true&theme=tokyonight)
+
