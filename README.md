@@ -5,8 +5,7 @@
 </p>
 <p align="center">
   <img src="https://github.com/nguyenleduy03/nguyenleduy03/blob/main/duy.png" 
-       width="̀20%" 
-       style="border-radius: 30%; border: 4px solid #00C9A7;" 
+      style="width: 50%; border-radius: 100%;" solid #00C9A7;" 
        alt="Avatar" />
 </p>
 <h3 align="center">A passionate Full Stack Developer from 🌏 Vietnam</h3>
