@@ -3,13 +3,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B,+I'm+Nguyen+Le+Duy!" alt="Typing SVG" />
 </p>
+<h3 align="center">A passionate Full Stack Developer from 🌏 Vietnam</h3>
 <p align="center">
   <img src="https://github.com/nguyenleduy03/nguyenleduy03/blob/main/duy.png" 
        width="220" 
        style="border-radius: 50%; border: 4px solid #00C9A7;" 
        alt="Avatar" />
 </p>
-<h3 align="center">A passionate Full Stack Developer from 🌏 Vietnam</h3>
 
 ---
 
@@ -66,10 +66,8 @@
 
 ## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenleduy03/nguyenleduy03/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenleduy03/nguyenleduy03/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/nguyenleduy03/nguyenleduy03/output/github-snake.svg" />
-  </picture>
-</p>
+﻿<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hungtvu113/hungtvu123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hungtvu113/hungtvu123/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hungtvu113/hungtvu123/output/github-snake.svg" />
+</picture>
