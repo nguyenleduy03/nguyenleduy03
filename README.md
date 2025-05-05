@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#00C9A7">Nguyen Le Duy</span>!</h1>
 <h3 align="center">A passionate Full Stack Developer from 🌏 Vietnam</h3>
 <p align="center">
-  <img src="https://github.com/nguyenleduy03/nguyenleduy03/blob/main/avt.gif" alt="Demo Video" width="70%" />
+  <img src="https://github.com/nguyenleduy03/nguyenleduy03/blob/main/avt.gif" alt="Demo Video" width="30%" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=I+%F0%9F%92%BB+code+cool+stuff;I+%E2%9C%A8+design+for+humans;Always+learning+new+things+%F0%9F%8C%8E" />
