@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer from 🌏 Vietnam</h3>
 <p align="center">
     <img src="https://github.com/nguyenleduy03/nguyenleduy03/blob/main/duy.png" 
-         style="width: 30%; border-radius: 30%;" 
+         style="width: 30%; border-radius: 50%;" 
          alt="Avatar" />
 </p>
 
