@@ -1,11 +1,15 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=450&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Nguyen+Le+Duy!;A+Passionate+Full+Stack+Developer+from+Vietnam" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=70&lines=Hi+there+%F0%9F%91%8B,+I'm+Nguyen+Le+Duy!;A+Passionate+Full+Stack+Developer+from+Vietnam" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/nguyenleduy03/nguyenleduy03/blob/main/duy.png" width="180" style="border-radius: 50%;" alt="Avatar" />
+  <img src="https://github.com/nguyenleduy03/nguyenleduy03/blob/main/duy.png" 
+       width="220" 
+       style="border-radius: 50%; border: 4px solid #00C9A7;" 
+       alt="Avatar" />
 </p>
+
 
 ---
 
