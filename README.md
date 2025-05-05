@@ -9,13 +9,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 - 🔭 I’m currently working on **modern web apps and creative tools**  
 - 🌱 I’m learning **AI, TypeScript, and System Design**  
 - 💬 Ask me about `React`, `Node.js`, `UX/UI` or `Open Source`  
 - 🧠 Fun fact: I love clean code, good coffee, and chill music  
-- 📫 How to reach me: **[your.email@exampl.com](mailto:nguyenleduydhtv@gmail.com)**  
+- 📫 How to reach me: **[nguyenleduydhtv@gmail.com](mailto:nguyenleduydhtv@gmail.com)**  
 - ⚡ Motto: _“Code is art. Design is empathy.”_
 
 ---
