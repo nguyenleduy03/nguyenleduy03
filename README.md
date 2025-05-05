@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi there 👋, I'm <span style="color:#00C9A7">Your Name</span>!</h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#00C9A7">Nguyen Le Duy</span>!</h1>
 <h3 align="center">A passionate Full Stack Developer from 🌏 Vietnam</h3>
 
 <p align="center">
