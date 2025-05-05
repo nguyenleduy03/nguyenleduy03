@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <img src="https://github.com/nguyenleduy03/nguyenleduy03/blob/main/duy.png" 
-       width="̀30%" 
+       width="̀20%" 
        style="border-radius: 50%; border: 4px solid #00C9A7;" 
        alt="Avatar" />
 </p>
