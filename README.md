@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="38" height="38"/>
 
 - 🔭 I’m currently working on **modern web apps and creative tools**  
 - 💻  Learning: `AI`, `TypeScript`, `System Design`  
